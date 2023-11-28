@@ -14,13 +14,12 @@ cloudinary.com
 www.netlify.com
 stackoverflow.com
 www.gsmarena.com
-discordapp.com:443
+discordapp.com
 miratan.de
 estez.de
 apicom.de
 chrisby.de
 sola-ruhrpott.de
 paintball-fichtheim.de
-cloudron-2019-03-28T21:05:06.407Z
 79v.de
 keinkot.de
